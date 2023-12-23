@@ -1,11 +1,5 @@
-<style>
-  .welcome-gif {
-    width: 200px;
-  }
-</style>
-
 <div id="header" align="center">
-  <img class=".welcome-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F4N3Mqhl8JRyYLapZgt%2Fsource.gif&f=1&nofb=1&ipt=b4c9117bad64920710cfbf81310888653addb62bd7c2355d5bcc5313dae77185&ipo=images"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F4N3Mqhl8JRyYLapZgt%2Fsource.gif&f=1&nofb=1&ipt=b4c9117bad64920710cfbf81310888653addb62bd7c2355d5bcc5313dae77185&ipo=images" width="250"/>
 </div>
 
 ## 👋 About me
