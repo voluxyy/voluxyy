@@ -1,5 +1,3 @@
-# Bienvenue sur mon profil GitHub !
-
 ## 👋 À propos de moi
 
 Salut, je m'appelle Anaël Lasserre. Je suis étudiant en 2e année à Ynov Toulouse Campus, passionné par l'informatique et la cybersécurité.
@@ -23,7 +21,7 @@ N'hésitez pas à me suivre et à me contacter sur ces plateformes !
 
 ## 🚀 Projets
 En cours :
-- [Gestionnaire de mot de passe](https://bontoutou.org/)
+- [Gestionnaire de mot de passe]()
 
 Terminés :
 - [Travel Agency](https://github.com/voluxyy/Travel-Agency)
