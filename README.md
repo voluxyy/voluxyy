@@ -1,5 +1,10 @@
-<div id="header" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F4N3Mqhl8JRyYLapZgt%2Fsource.gif&f=1&nofb=1&ipt=b4c9117bad64920710cfbf81310888653addb62bd7c2355d5bcc5313dae77185&ipo=images" width="250"/>
+<div align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F4N3Mqhl8JRyYLapZgt%2Fsource.gif&f=1&nofb=1&ipt=b4c9117bad64920710cfbf81310888653addb62bd7c2355d5bcc5313dae77185&ipo=images" width="300"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voluxyy&show_icons=true&theme=dark&card_width=400" height="200" alt="Github stat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voluxyy&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=false" height="200" alt="Languages graph"  />
 </div>
 
 ## 👋 About me
