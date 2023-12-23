@@ -1,15 +1,14 @@
+<style>
+  .welcome-gif {
+    width: 200px;
+  }
+</style>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ana%C3%ABl-lasserre-33a706265/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img class=".welcome-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F4N3Mqhl8JRyYLapZgt%2Fsource.gif&f=1&nofb=1&ipt=b4c9117bad64920710cfbf81310888653addb62bd7c2355d5bcc5313dae77185&ipo=images"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=voluxyy&style=flat-square&color=blue" alt=""/>
-
-## 👋 À propos de moi
+## 👋 About me
 
 Salut, je m'appelle Anaël Lasserre. Je suis étudiant en 2e année à Ynov Toulouse Campus, passionné par l'informatique et la cybersécurité.
 
