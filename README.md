@@ -3,45 +3,45 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voluxyy&show_icons=true&theme=dark&card_width=400" height="200" alt="Github stat" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voluxyy&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=false" height="200" alt="Languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=voluxyy&locale=en&theme=dark&card_width=400&show_icons=true" height="200" alt="Github stat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voluxyy&locale=en&theme=dark&card_width=400&layout=compact&langs_count=8" height="200" alt="Languages stat">
 </div>
 
 ## 👋 About me
 
-Salut, je m'appelle Anaël Lasserre. Je suis étudiant en 2e année à Ynov Toulouse Campus, passionné par l'informatique et la cybersécurité.
+- **Name:** Anaël Lasserre
 
-## 💼 Objectif professionnel
+- **Current school:** Toulouse Ynov Campus
 
-Je suis actuellement en train de me spécialiser dans la cybersécurité et aspire à travailler dans ce domaine passionnant.
+- **Informations:** I love science computer and more precisely network, security, programming and scripting. I hope to work in cybersecurity because it's a passionating world and in constant evolution.
 
-## 🌐 Plateformes de hacking
+## 📚 Degrees
+
+- STI2D baccalaureate
+
+- Mastere of science computer and Cybersecurity (Currenttly)
+
+## 🌐 Hacking platforms
 
 - [TryHackMe](https://tryhackme.com/p/voluxyy)
 - [RootMe](https://www.root-me.org/voluxyy)
 
-N'hésitez pas à me suivre et à me contacter sur ces plateformes !
-
-## 💻 Compétences
-
-- Sécurité informatique
-- Programmation (Python, Javascript, Golang, C#)
-- Réseaux informatiques
+<h3 align="center">Feel free to follow and contact me on these platforms!</h3>
 
 ## 🚀 Projets
-En cours :
-- [Gestionnaire de mot de passe]()
 
-Terminés :
+**En cours :**
+
+- [Website]("https://github.com/voluxyy/voluxyy.github.io")
+- [Github profile]("https://github.com/voluxyy/voluxyy")
+
+**Terminés :**
+
 - [Travel Agency](https://github.com/voluxyy/Travel-Agency)
 - [Python Eval](https://github.com/voluxyy/python-eval)
 
 ## ✉️ Contact
 
-Vous pouvez me contacter par e-mail à lasserre.anael2@gmail.com.
+You can contact me by email at lasserre.anael2@gmail.com.
 
-## Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=voluxyy&show_icons=true&theme=dark)
-
-N'hésitez pas à explorer mes projets et à me laisser des commentaires !
+<h3 align="center">Feel free to explore my projects and leave me comments!</h3>
