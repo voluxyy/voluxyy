@@ -30,15 +30,37 @@
 
 ## 🚀 Projets
 
-**En cours :**
+<h4 style="margin-left:5%">In progress :</h4>
 
-- [Website]("https://github.com/voluxyy/voluxyy.github.io")
-- [Github profile]("https://github.com/voluxyy/voluxyy")
+<section style="display:flex; gap: 1%; justify-content:center;">
+  <div>
+    <a href="https://github.com/voluxyy/voluxyy.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=voluxyy.github.io&theme=dark" alt="Website Card"/>
+    </a>
+  </div>
 
-**Terminés :**
+  <div>
+    <a href="https://github.com/voluxyy/voluxyy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=voluxyy&theme=dark" alt="Profile Card"/>
+    </a>
+  </div>
+</section>
 
-- [Travel Agency](https://github.com/voluxyy/Travel-Agency)
-- [Python Eval](https://github.com/voluxyy/python-eval)
+<h4 style="margin-left:5%">Finished :</h4>
+
+<section style="display:flex; gap: 1%; justify-content:center;">
+  <div>
+    <a href="https://github.com/voluxyy/Travel-Agency">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=travel-agency&theme=dark" alt="Travel Agency Card"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/voluxyy/python-eval">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=python-eval&theme=dark" alt="Python Eval Card"/>
+    </a>
+  </div>
+</section>
 
 ## ✉️ Contact
 
