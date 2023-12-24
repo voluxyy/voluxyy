@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voluxyy&locale=en&theme=dark&card_width=400&show_icons=true" height="200" alt="Github stat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voluxyy&locale=en&theme=dark&card_width=400&layout=compact&langs_count=8" height="200" alt="Languages stat">
+  <img src="https://github-readme-stats.vercel.app/api?username=voluxyy&locale=en&theme=dark&card_width=300&show_icons=true" height="200" alt="Github stat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voluxyy&locale=en&theme=dark&card_width=300&layout=compact&langs_count=8" height="200" alt="Languages stat">
 </div>
 
 ## 👋 About me
