@@ -41,6 +41,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=voluxyy&theme=dark" alt="Profile Card"/>
     </a>
   </div>
+  <div>
+    <a href="https://github.com/voluxyy/python-tiktok-downloader">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=python-tiktok-downloader&theme=dark" alt="Python Tiktok Downloader Card"/>
+    </a>
+  </div>
 </section>
 
 <h4 style="margin-left:5%">Finished :</h4>
